@@ -1,4 +1,4 @@
-#### To run you need to install dependencies
+#### To run the app you need to install dependencies
 `npm install`
 #### and run script
 `npm run start`
