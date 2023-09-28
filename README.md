@@ -1,6 +1,6 @@
 #### To run you need to install dependencies
 `npm install`
-#### Run script
+#### and run script
 `npm run start`
 
   1. The application was created in the `Next.js` environment;
