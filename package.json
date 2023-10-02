@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "concurrently \"npm run dev\" \"npm run server\"",
-    "export": "next export",
     "lint": "next lint",
     "export": "next export",
     "server": "json-graphql-server db.js --p 4000"
