@@ -7,7 +7,8 @@ const nextConfig   = {
         path: '',
     },
     assetPrefix: './',
-    output: 'export'
+    trailingSlash: true,
+    output: 'export',
 };
 
-export default   nextConfig;
+module.exports = nextConfig
